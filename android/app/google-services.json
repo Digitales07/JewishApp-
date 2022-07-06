@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "185813875353",
+    "firebase_url": "https://jewish-app-assort.firebaseio.com",
+    "project_id": "jewish-app-assort",
+    "storage_bucket": "jewish-app-assort.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185813875353:android:c07bf658de70676f",
+        "android_client_info": {
+          "package_name": "com.assort.jewishapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185813875353-gs9eaiemfkf90n93mk4cubvr6aqlvji9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assort.jewishapp",
+            "certificate_hash": "411fc1043ad690792c0e4609125e428d18dec992"
+          }
+        },
+        {
+          "client_id": "185813875353-38vsosnli6usficsu3a9kheom97fe9uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChWRtSH3XKQA4777M5lHJUFwniCcQSFeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185813875353-38vsosnli6usficsu3a9kheom97fe9uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
